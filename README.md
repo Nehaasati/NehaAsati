@@ -15,8 +15,10 @@
 - Deep Learning (CNNs, Transfer Learning, TensorFlow, PyTorch, Keras)
 - Machine Learning (Classification, Feature Selection, Model Optimization)
 - Computer Vision (Image Classification, Malaria Detection, VGG16, ANN)
-- Natural Language Processing (llm)
+- Natural Language Processing (Bert, LSTM,GenAI)
 - MLOps(Efficient pipelines, deployment, monitoring, and automation)
+
+- 💼My CV https:https://europa.eu/europass/eportfolio/screen/share/documents/e5fa42c4-a762-44f0-8eb7-106349922376?lang=en
 
 📬 Let’s Connect!
 🔗 [LinkedIn] https://github.com/Nehaasati  | 31asatineha@gmail.com
