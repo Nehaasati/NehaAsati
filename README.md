@@ -19,7 +19,7 @@
 - MLOps(Efficient pipelines, deployment, monitoring, and automation)
 
 📬 Let’s Connect!
-🔗 [LinkedIn] https://github.com/Nehaasati  
+🔗 [LinkedIn] https://github.com/Nehaasati  | 31asatineha@gmail.com
 📧 31asatineha@gmail.com  
 📞 +46 0737100245  
 📍 Staffanstorp, Sweden
