@@ -15,7 +15,7 @@
 - Deep Learning (CNNs, Transfer Learning, TensorFlow, PyTorch, Keras)
 - Machine Learning (Classification, Feature Selection, Model Optimization)
 - Computer Vision (Image Classification, Malaria Detection, VGG16, ANN)
-- Natural Language Processing** (Spacy, Gensim, Flair, Transformers)
+- Natural Language Processing (llm)
 - MLOps(Efficient pipelines, deployment, monitoring, and automation)
 
 📬 Let’s Connect!
