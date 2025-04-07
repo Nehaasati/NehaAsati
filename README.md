@@ -1,4 +1,3 @@
-
 👩‍💻 Hi, I’m Neha Asati – A Passionate Data Scientist & Backend Developer  
 📍 Based in Sweden | 🌍 Originally from India
 🔭 I’m currently working on  on pdfchatbot on agentic ai
